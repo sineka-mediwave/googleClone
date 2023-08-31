@@ -78,3 +78,23 @@ style elements using a class name
 }
 
 ```
+
+## 9. Adding Flex
+
+-> To multiple inline element in the single block, we are using flexbox
+
+```
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+
+    margin: 30px 4px;
+    background: #dfe1e5;
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: none;
+}
+```
