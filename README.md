@@ -33,3 +33,32 @@ style elements using a class name
 
 -> Add space between the elements
 -> Center the element
+
+```
+.logo-img {
+    display: block;
+    width: 500PX;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+```
+
+## 7. style the input field
+
+-> add border radius
+-> add padding
+
+```
+.search-input {
+    display: block;
+    width: 500px;
+    height: 24px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: 1px solid #dfe1e5;
+}
+
+```
