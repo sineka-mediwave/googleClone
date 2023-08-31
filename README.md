@@ -62,3 +62,19 @@ style elements using a class name
 }
 
 ```
+
+## 8. Center the button
+
+```
+.btn {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background: #dfe1e5;
+    padding: 5px 10px;
+    border-radius: 4px;
+    border: none;
+}
+
+```
