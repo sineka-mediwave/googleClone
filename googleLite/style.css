@@ -1,7 +1,12 @@
+div {
+   margin-top: 100px; 
+}
 img {
     display: block;
-    width: 300PX;
+    width: 500PX;
 }
 input {
-    width: 350px;
+    display: block;
+    width: 500px;
+    margin-top: 50px;
 }
