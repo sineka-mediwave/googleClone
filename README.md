@@ -18,3 +18,7 @@ input {
 }
 
 ```
+
+## 4. CSS classes
+
+style elements using a class name
