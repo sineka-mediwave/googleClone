@@ -27,3 +27,4 @@ style elements using a class name
 
 -> three color flag
 -> monaco red and white color
+-> The gambia white color between three color

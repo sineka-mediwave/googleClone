@@ -11,6 +11,8 @@ body {
 .blue {
     background: rgb(0, 0, 207);
     height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .green {
